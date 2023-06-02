@@ -7,3 +7,4 @@ echo "school"
  #!/bin/bash
  echo "school" 
  #!/bin/bash\n echo "school" 
+ #!/bin/bash\n echo "school" 
