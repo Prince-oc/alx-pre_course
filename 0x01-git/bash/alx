@@ -7,4 +7,8 @@ echo "ALX"
  #!/bin/bash
  echo "ALX" 
  #!/bin/bash\n echo "ALX" 
+<<<<<<< HEAD
+ #!/bin/bash\n echo "ALX" 
+=======
+>>>>>>> 76f5c3f6aa03fb3febd59b3a414f1dd1415fa832
  #!/bin/bash\n echo "ALX" 
